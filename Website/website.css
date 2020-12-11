@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    height: 80%;
+}
+
+ul{
+    list-style-type:  none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(118, 252, 238);
+    height: 100%;
+}
+
+.first {
+    text-align: center;
+}
+
+.eee {
+    text-align: end;
+}
+
+li {
+    text-align: center;
+    opacity: 0.2;
+}
+
+li:hover {
+    background-color: rgb(236, 185, 236);
+    opacity: 1;
+}
+
+button {
+    color: rgb(236, 236, 236);
+    background-color: wheat;
+}
